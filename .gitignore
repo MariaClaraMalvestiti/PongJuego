@@ -1,0 +1,27 @@
+
+---
+
+### ✅ .gitignore (queda igual)
+
+```gitignore
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de sistema
+node_modules/
+dist/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del editor
+.vscode/
+.idea/
+*.swp
+
+# Otros
+*.bak
+.env
+

@@ -14,7 +14,12 @@ Este proyecto es una implementación simple del clásico juego de Pong usando te
 
 ## 🚀 ¿Cómo jugar?
 
-### 🔄 Opción 1: Ejecutar localmente
+### 🔗 Opción 1: Jugar en línea
+
+Podés jugar directamente desde tu navegador gracias a GitHub Pages:  
+👉 [¡Jugar ahora!](https://MariaClaraMalvestiti.github.io/PongJuego/)
+
+### 🔄 Opción 2: Ejecutar localmente
 
 1. Cloná o descargá el repositorio:
 
